@@ -2,6 +2,7 @@
 logs/
 output/
 data/
+pretrained/
 
 # Ignore Python cache files
 __pycache__/
